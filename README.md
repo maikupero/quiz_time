@@ -1,9 +1,8 @@
-# Movietime
+# Quiz Time
 
-Simple movies app!
-Try it out at [My Github Pages site](maikupero.github.io/movetime/).
+Simple quiz app!
+Try it out at [My Github Pages site](maikupero.github.io/quiz_time/).
 
 Roadmap for things to add:
-- URL for where to watch selected movie.
-- User choose number of items on page / size.
-- Light/dark mode.
+- User set custom questions/answers, can get their friends to take it
+- Scalable number of answers per question
